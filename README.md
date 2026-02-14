@@ -10,7 +10,7 @@ This tool analyzes a resume against a job description and generates:
 
 ✅ Actionable Improvement Roadmap
 
-✅ Downloadable PDF Report
+
 Features
 
 Web UI built with HTML + Flask
@@ -21,7 +21,7 @@ Structured output (not messy paragraphs)
 
 Clean UI with styled results section
 
-Automatic PDF generation of analysis
+
 
 Generic — works for any field (engineering, tech, business, etc.)
 
